@@ -1,0 +1,1 @@
+Here we will get the result once i will run node app on cli:This is the result:Hello this is first text file,Hello this is second text file
